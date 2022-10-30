@@ -1,0 +1,10 @@
+.navMenu {
+    background-color: #FF9C2F !important;
+    box-shadow: 4px 3px 9px rgba(0, 0, 0, 0.7);
+    font-family: 'Oswald', sans-serif;
+}
+
+.nav-link {
+    color: white !important;
+    font-family: 'Oswald', sans-serif;
+}

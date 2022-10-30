@@ -1,0 +1,21 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-size: large;
+}
+.padding {
+    padding: 1% 10% 1% 10%;
+}
+.navMenu {
+    box-shadow: 4px 3px 9px rgba(0, 0, 0, 0.7);
+}
+
+.flex{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0 auto;
+}
+
+.btn-warning {
+    color: white !important;
+}
